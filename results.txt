@@ -1,0 +1,399 @@
+001_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+002_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+003_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+004_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+005_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+006_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+007_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+008_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+009_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+010_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+011_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+012_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+013_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+014_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+015_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+016_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+017_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+018_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+019_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+020_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+021_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+022_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+023_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+024_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+025_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+026_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+027_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+028_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+029_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+030_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+031_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+032_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+033_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+034_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+035_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+036_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+037_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+038_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+039_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+040_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+041_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+042_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+043_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+044_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+045_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+046_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+047_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+048_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+049_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+050_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+051_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+052_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+053_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+054_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+055_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+056_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+057_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+058_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+059_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+060_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+061_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+062_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+063_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+064_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+065_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+066_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+067_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+068_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+069_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+070_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+071_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+072_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+073_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+074_transducer.txt results:
+('Is DA', 'Not LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+075_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+076_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+077_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+078_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+079_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+080_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+081_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+082_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+083_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+084_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+085_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+086_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+087_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+088_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+089_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+090_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+091_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+092_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+093_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+094_transducer.txt results:
+('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+095_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+096_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+097_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+098_transducer.txt results:
+('Is DA', 'Not LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+
+099_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+100_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+101_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+102_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+103_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+104_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+105_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+106_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+107_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+108_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+109_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+110_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+111_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+112_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+113_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+114_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+115_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+116_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+117_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+118_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+119_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+120_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+121_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+122_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+123_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+124_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+125_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+126_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+127_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+128_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+129_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+130_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+131_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+132_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
+133_transducer.txt results:
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Is Reverse Definite', 'Is Trivial')
+
