@@ -33,10 +33,11 @@ def states_and_labels(transitions):#pulls set of states and transition labels fr
 	
 def merge_labels(transitions):#merges transition labels that have the same state actions (often all consonants, all vowels, etc.)
 	glossary = {}
+	transitions = [x for x in transitions if not x[1] in ['+','.','<','-']]
 	new_transitions = []
 	label_dict = {}
 	states, labels = states_and_labels(transitions)
-	no_boundaries = [x for x in labels if x not in ['#','%','+','.']]
+	no_boundaries = [x for x in labels if x not in ['#','%']]
 	for label in labels:
 		if label in no_boundaries:
 			if label not in label_dict.keys():
@@ -391,7 +392,7 @@ def main():
 	elem_set = []
 	transition_dict = populate_dict(transitions)
 	states, labels = states_and_labels(clean_transitions(transitions))
-	no_boundaries = [x for x in labels if x not in ['#','%','+','.','-','<']]
+	no_boundaries = [x for x in labels if x not in ['#','%']]
 	for label in no_boundaries:
 		elem_set.append(behaviors(label, states, transition_dict))
 	#pprint.pprint(elem_set)

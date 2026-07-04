@@ -26,7 +26,7 @@
 ('Is DA', 'Is LJ1', 'Not L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
 
 010_transducer.txt results:
-('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+('Is DA', 'Is LJ1', 'Is L1', 'Is Definite', 'Not Reverse Definite', 'Not Trivial')
 
 011_transducer.txt results:
 ('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
@@ -101,28 +101,28 @@
 ('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
 
 035_transducer.txt results:
-('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Is Reverse Definite', 'Not Trivial')
 
 036_transducer.txt results:
-('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Is Reverse Definite', 'Not Trivial')
 
 037_transducer.txt results:
-('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Is Reverse Definite', 'Not Trivial')
 
 038_transducer.txt results:
-('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Is Reverse Definite', 'Not Trivial')
 
 039_transducer.txt results:
-('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Is Reverse Definite', 'Not Trivial')
 
 040_transducer.txt results:
-('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Is Reverse Definite', 'Not Trivial')
 
 041_transducer.txt results:
-('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Is Reverse Definite', 'Not Trivial')
 
 042_transducer.txt results:
-('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
+('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Is Reverse Definite', 'Not Trivial')
 
 043_transducer.txt results:
 ('Is DA', 'Is LJ1', 'Is L1', 'Not Definite', 'Not Reverse Definite', 'Not Trivial')
